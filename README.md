@@ -1,6 +1,6 @@
 # AutoLinkedIn
 
-Elevate your LinkedIn game with **AutoLinkedIn**, a Python package designed for automating routine LinkedIn tasks. Whether you want to connect with specific users, manage connection requests, or optimize your LinkedIn networking, this package has you covered.
+Elevate my LinkedIn with **AutoLinkedIn**, a Python package designed for automating routine LinkedIn tasks. Whether you want to connect with specific users, manage connection requests, or optimize your LinkedIn networking, this package has you covered.
 
 ### Key Features
 
